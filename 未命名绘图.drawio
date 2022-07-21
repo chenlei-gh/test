@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T11:27:05.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="mQ1TkHgSK1YyVRWCAxch" version="20.1.2" type="github"><diagram id="V9MdSfBIpb6j0CdzWANQ" name="Page-1">7VrbcqM4EP0aPSaFJC7SI9hkd6f2VpWtmdqnLWKIoQYjL8YTe75+WzcbG+zYGZP1JJNKJaIFatFHfbrVAtHRbPVTnczz30SalYg46QrRMSIEO5TBPylZa4mPAy2Y1kWqRc5WcF98zeyTRros0mxhZFrUCFE2xXxXOBFVlU2aHVlS1+Jp97ZHUaY7gnkyzTqC+0lSdqWfirTJtZSRYCv/OSumudWMfa57HpLJ52ktlpXRhwh9VD+6e5bYsYyGRZ6k4qllERojOqqFaHRrthplpbTtrtnuDvRu5l1nVXPKA8v1x79/yT+66Yev/qd1kX5YVn/cUKqH+ZKUy8y+h5pts7YWki8572ozE/iS1U226oMqebAjbF8XllEmZllTr+E+85RVaRYQ8cycnrZw+J6rZXkbCmaQSMwSmG6G3poBGsYSZ1gFd40S+yj0EYOGh6I7FHkoZiiMURSbRohRzBFnKPLVzbG8Z9+UeTODiYwxotFmOThwkSaLPEvNRVIW0wraEzB1VoNAmriAFRuajlmRpnJEOcZcjjxbTaVz3mp/IPq/HHZtx5emxrJViWaSG2kX0+NrZB/pw4h2AMSu0wWQOgPhR3rwA5DuJIRxgKIIMf8Hfofxw24XQRKwV0Swh5YAnTBEbGSgZFi54ggxRzbYHeI/ENwg6FoubvsgJa+IoNuDYIC4i/gdil0UhSgMVIMpBOEvOKYrgYPLMHivwHk20rWBc16TPG3+9oKU4DwbnJ4orHdf+bm4gslgiUFPZkD8EvRGOXT500atDS15FGCXttn8f5fCdtwsVCYcwg3Yma/0Y6Z/MxA4Ax8j7qgG/HLFdIr1oCEJjm8dRlIeVb7kSx8LPTsPeFM9ld3pgbg757kVAJeqwTTNAt9qVaEj/RS8NRqrYKoZWGVFHO4fH53F/KA20tKmKVwNCVFaDrlhd038Si2DdnTS2HRnbGkrFTB4jNgFLdzSv+crsOjV+mjxV1OLz9lIlAIoalyJShLSY1GWe6LFPJkU1RQE3vbqLzEHwQ2RLPSUF012D3Kp6gl4DGQC/OyxVPSYA9llwHqR2qVsSFIuBrMPw2dw2YYXnucy46+Yn+iveDAu64lC+/jYEPFr8pCVf4pF0RRChooH0TRi1hNDGolAtBuPdmLJQ7IoJrfJZNlk/zR1kVRTFXJUJHFuvVeBwPTa3Xk7kevJ4/BghMmvLpis9laiDS7dhIn35EsDxpaeXcvB2AJkUH17bPEtq2PJp1ICpKhzMIqAOLf0pvW9NIAcoXS45CaFB7YF/WZeKpKw0LLtSDJ/z5S1CvK+iJgf8IFziLh3bQ/Hw+xt8fDpCNje/5mHbQ32+nh4k9VfCw+Tc3L8C/Cw2gJHlpDDsaJLyK5JT4XqUoSsc1zWyoNbFN3N6Pfn1cmDj/PwkWRfsT5EAPmGVE7KxIFQ2WWs9AdSOVeVO+69t6x747jfD9lbankjZH8GAtdC9i8/1BmY7ClxX0T2HhvKVH0bxMHInmo2BYpV3AnkFsaDsfzo91GftktyNyTzMnCpExUIFqdoO69iM5JjqGIP883+hDvvi/9PryDb81N6SwJMccAId72A+t3j1F4fo+5tQJjPCA4czyW+O5TLeW8rPJx/unZaeDiE4+UB8a81XLguvrK9Qd/ZyLB7A31OppNx3HMIesEaTaROTrks/oRMKY/MWSooZLo0rncL3U1C93D2pWFFBxH36CHDESu8g5DgH/CvK94SvK36zxkIXMmWgF5t/cfz/OviePrK9Z/uRxGB/R7Jl3wrv4W4aNmHKrJ3VX7eKrJEOmOHLv0hBpdVGK6K7ZFnakQskHX7b9kxPKtfKTchL5IWkU+Fsi0tBXsIvrWL3hpAiHpP9E+/v4qQ/fDojdD/GQgMTv9wuf2EWPW1vtOm8X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-21T02:14:28.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="xmwboE5oyp9M6tAf2o6s" version="20.1.3" type="github">
+  <diagram id="V9MdSfBIpb6j0CdzWANQ" name="Page-1">
+    <mxGraphModel dx="1027" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uyVYIhV4dJz6WyidJunO-33" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="22" y="253" width="654" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-1" value="概念设计阶段" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1">
+          <mxGeometry x="2" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-2" value="详细设计阶段" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1">
+          <mxGeometry x="142" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-3" value="验证开发阶段" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1">
+          <mxGeometry x="421" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-4" value="生产一致性" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1">
+          <mxGeometry x="554" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-17" value="" style="group" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1" connectable="0">
+          <mxGeometry y="30" width="140" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;材料兼容性检查&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1、对标车异响检查&lt;/p&gt;&lt;p&gt;2、防再发识别&lt;/p&gt;&lt;p&gt;3、造型材料兼容性检查&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-17" vertex="1">
+          <mxGeometry y="19" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-17" vertex="1">
+          <mxGeometry x="38" width="28" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-19" value="" style="group" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1" connectable="0">
+          <mxGeometry x="140" y="31" width="92" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-12" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;方案构想&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1、防再发所实施技术方案。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-19" vertex="1">
+          <mxGeometry y="19" width="92" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-19" vertex="1">
+          <mxGeometry x="18" width="28" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-20" value="" style="group" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1" connectable="0">
+          <mxGeometry x="230" y="31" width="92" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-21" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;主断面设计&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1、典型防异响断面检查。&lt;/p&gt;&lt;p&gt;2、安装定位策略&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-20" vertex="1">
+          <mxGeometry y="19" width="92" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-20" vertex="1">
+          <mxGeometry x="18" width="28" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-23" value="" style="group" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1" connectable="0">
+          <mxGeometry x="324" y="31" width="92" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-24" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3D数据设计&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1、CNC数据检查。&lt;/p&gt;&lt;p&gt;2、冻结数据检查&lt;/p&gt;&lt;p&gt;3、CAE分析&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-23" vertex="1">
+          <mxGeometry y="23.271317829457363" width="92" height="134.72868217054264" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-23" vertex="1">
+          <mxGeometry x="18" width="28" height="23.271317829457363" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-26" value="" style="group" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1" connectable="0">
+          <mxGeometry x="441" y="31" width="92" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-27" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;产品验证&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1、零部件按压异响验证。&lt;/p&gt;&lt;p&gt;2、整车异响验证&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-26" vertex="1">
+          <mxGeometry y="19" width="92" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-26" vertex="1">
+          <mxGeometry x="18" width="28" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-30" value="" style="group" parent="uyVYIhV4dJz6WyidJunO-33" vertex="1" connectable="0">
+          <mxGeometry x="556" y="31" width="92" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-31" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;生产管控&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1、关键位置间隙测量。&lt;/p&gt;&lt;p&gt;2、关键位置紧固力矩控制&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-30" vertex="1">
+          <mxGeometry y="19" width="92" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uyVYIhV4dJz6WyidJunO-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontSize=10;" parent="uyVYIhV4dJz6WyidJunO-30" vertex="1">
+          <mxGeometry x="18" width="28" height="19" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
